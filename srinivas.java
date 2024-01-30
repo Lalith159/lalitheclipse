@@ -14,5 +14,8 @@ public class srinivas {
 	    public void age(int age) {	  
 	  	  System.out.println("the age of the parent:="+age);
 	    }
+		public void myage(int age) {	  
+	  	  System.out.println("the age of the parent:="+age);
+	    }
 	}
 
